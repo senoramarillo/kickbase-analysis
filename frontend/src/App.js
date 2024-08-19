@@ -57,7 +57,7 @@ function App() {
                   </TabList>
                 </Grid>
                 <Grid item><Typography variant="button" style={{ opacity: '0.7' }}>Stand: {new Date(timestamp.time).toLocaleString('de-DE')}</Typography></Grid>
-                <Grid item><IconButton style={{ opacity: '0.7' }} onClick={() => { window.open("https://github.com/roman-la/kickbase-analysis", "_blank") }}><GitHubIcon /></IconButton></Grid>
+                <Grid item><IconButton style={{ opacity: '0.7' }} onClick={() => { window.open("https://github.com/senoramarillo/kickbase-analysis", "_blank") }}><GitHubIcon /></IconButton></Grid>
                 <Grid item>
                   <FormControlLabel control={<Switch checked={darkModeEnabled} onChange={(e) => handleThemeChange(e.target.checked)} />} label={<Typography variant="button" style={{ opacity: '0.7' }}>Dark Mode</Typography>} />
                 </Grid>
