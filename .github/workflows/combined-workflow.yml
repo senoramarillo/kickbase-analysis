@@ -32,8 +32,8 @@ jobs:
     
     - name: Run code
       working-directory: data/
-      run: pipenv run python main.py --mail ${{ secrets.KB_MAIL }} --pw ${{ secrets.KB_PW }} --league="${{ secrets.KB_LEAGUE }}" --start ${{ secrets.START_DATE }}
-    
+      run: pipenv run python main.py --mail "${{ env.KB_MAIL }}" --pw "${{ env.KB_PW }}" --league "${{ env.KB_LEAGUE }}" --start "${{ env.START_DATE }}"
+
     - name: Copy result
       run: cp data/data/*.json frontend/src/data
 
