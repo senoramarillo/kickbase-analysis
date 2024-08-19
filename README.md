@@ -9,7 +9,7 @@
   ---
 
   <!-- Placeholder for badges -->
-  ![GitHub License](https://img.shields.io/github/license/casudo/kickbase-insights) ![GitHub release (with filter)](https://img.shields.io/github/v/release/casudo/kickbase-insights)
+  ![GitHub License](https://img.shields.io/github/license/senoramarillo/kickbase-insights)
 
 
 </div>
