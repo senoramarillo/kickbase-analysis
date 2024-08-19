@@ -1,7 +1,7 @@
 **For educational and non-profit uses only. All trademarks, logos and brand names are the property of their respective owners.**
 
 <div align="center">
-  <a href="https://de.kickbase.com/"><img width="400" alt="Logo" src="repo_pictures/kickbase.jpg"></a>
+  <a href="https://de.kickbase.com/"><img width="400" alt="Logo" src="kickbase.jpg"></a>
   <br>
   <h1>Kickbase Insights</h1>
   This project is a used to gather data from <a href="https://www.kickbase.com/">Kickbase</a> API endpoint and visualize it in a web interface, acting as alternative for the pro/member membership.
