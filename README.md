@@ -1,5 +1,20 @@
 **For educational and non-profit uses only. All trademarks, logos and brand names are the property of their respective owners.**
 
+<div align="center">
+  <a href="https://de.kickbase.com/"><img width="400" alt="Logo" src="repo_pictures/kickbase.jpg"></a>
+  <br>
+  <h1>Kickbase Insights</h1>
+  This project is a used to gather data from <a href="https://www.kickbase.com/">Kickbase</a> API endpoint and visualize it in a web interface, acting as alternative for the pro/member membership.
+
+  ---
+
+  <!-- Placeholder for badges -->
+  ![GitHub License](https://img.shields.io/github/license/casudo/kickbase-insights) ![GitHub release (with filter)](https://img.shields.io/github/v/release/casudo/kickbase-insights)
+
+
+</div>
+
+
 # kickbase-analysis
 
 This repository contains python code for retrieving data from the Kickbase API and also a react web app for visualization.
@@ -98,4 +113,11 @@ You can configure the data collection by bot command line arguments or a config 
 
 # Contribute
 
-Feel free to contribute to this repository. You can also contact me on discord (r0man51) or open an issue if you have any ideas, bugfinds, questions, etc.
+Feel free to contribute to this repository. 
+
+### Thanks to
+- [@fabfischer](https://github.com/fabfischer) for the inspiration and the currently great and working [Kickbase+ web client](https://github.com/fabfischer/kickbase-plus)  
+- [@kevinskyba](https://github.com/kevinskyba) for providing the excellent [Kickbase API documentation](https://kevinskyba.github.io/kickbase-api-doc)  
+- [@roman-la](https://github.com/roman-la) for the base of the frontend  
+
+---
