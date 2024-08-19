@@ -9,7 +9,7 @@
   ---
 
   <!-- Placeholder for badges -->
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/git/git-scm.com/actions/workflows/ci.yml/badge.svg)](https://github.com/git/git-scm.com/actions/workflows/ci.yml)![GitHub Release](https://img.shields.io/github/v/release/senoramarillo/kickbase-analysis)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/git/git-scm.com/actions/workflows/ci.yml/badge.svg)](https://github.com/git/git-scm.com/actions/workflows/ci.yml) ![GitHub Release](https://img.shields.io/github/v/release/senoramarillo/kickbase-analysis)
 </div>
 
 # kickbase-analysis
