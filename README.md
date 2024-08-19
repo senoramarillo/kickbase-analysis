@@ -111,10 +111,6 @@ You can configure the data collection by bot command line arguments or a config 
     - `npm start` Start the development server
     - Frontend will be reachable under http://localhost:3000/
 
-# Contribute
-
-Feel free to contribute to this repository. 
-
 ### Thanks to
 - [@fabfischer](https://github.com/fabfischer) for the inspiration and the currently great and working [Kickbase+ web client](https://github.com/fabfischer/kickbase-plus)  
 - [@kevinskyba](https://github.com/kevinskyba) for providing the excellent [Kickbase API documentation](https://kevinskyba.github.io/kickbase-api-doc)  
