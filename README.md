@@ -9,11 +9,8 @@
   ---
 
   <!-- Placeholder for badges -->
-  ![GitHub License](https://img.shields.io/github/license/senoramarillo/kickbase-insights)
-
-
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/git/git-scm.com/actions/workflows/ci.yml/badge.svg)](https://github.com/git/git-scm.com/actions/workflows/ci.yml)
 </div>
-
 
 # kickbase-analysis
 
