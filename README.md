@@ -1,7 +1,7 @@
 **For educational and non-profit uses only. All trademarks, logos and brand names are the property of their respective owners.**
 
 <div align="center">
-  <a href="https://de.kickbase.com/"><img width="200" alt="Logo" src="kickbase.jpg"></a>
+  <a href="https://de.kickbase.com/"><img width="200" alt="Logo" src="logo/kickbase.jpg"></a>
   <br>
   <h1>Kickbase Insights</h1>
   This project is a used to gather data from <a href="https://www.kickbase.com/">Kickbase</a> API endpoint and visualize it in a web interface, acting as alternative for the pro/member membership.
@@ -93,8 +93,8 @@ You can configure the data collection by bot command line arguments or a config 
     - `cd ./data` Move to data folder
     - `pipenv install` Install dependencies into virtual environment
 - **Run code:**
-    - `pipenv run main.py` No arguments needed if you use settings.conf
-    - else use: `pipenv run main.py --user your@mail.com --pw password123 --league "Stammkneipe Berlin" --start 01.07.2023`
+    - `pipenv run python main.py` No arguments needed if you use settings.conf
+    - else use: `pipenv run python main.py --user your@mail.com --pw password123 --league "Stammkneipe Berlin" --start 01.07.2023`
 - **Copy files to frontend folder:**
     - `cd ..` Go back into the projects main folder
     - `cp ./data/data/*.json ./frontend/src/data` Copy files to frontend

@@ -52,7 +52,7 @@ function App() {
                 <Grid item>
                   <TabList onChange={(e, v) => setSelectedTab(v)}>
                     <Tab label="Transfers" value="1" />
-                    <Tab label="Transfererlöse" value="2" />
+                    {/*<Tab label="Transfererlöse" value="2" />*/}
                     <Tab label="Spieler" value="3" />
                   </TabList>
                 </Grid>
