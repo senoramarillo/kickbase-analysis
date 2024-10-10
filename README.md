@@ -4,7 +4,7 @@
   <a href="https://de.kickbase.com/"><img width="200" alt="Logo" src="logo/kickbase.jpg"></a>
   <br>
   <h1>Kickbase Insights</h1>
-  This project is a used to gather data from <a href="https://www.kickbase.com/">Kickbase</a> API endpoint and visualize it in a web interface, acting as alternative for the pro/member membership.
+  This project is a used to gather data from <a href="https://www.kickbase.com/">Kickbase</a> API endpoint and visualize it in a web interface, acting as alternative for the pro member membership.
 
   ---
 
